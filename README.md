@@ -15,16 +15,16 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Responsive](https://img.shields.io/badge/Responsive-Mobile_First-fc3f31?style=for-the-badge&logo=googlechrome&logoColor=white)
-![Dark Theme](https://img.shields.io/badge/Theme-Dark_Mode-000000?style=for-the-badge&logo=moon&logoColor=white)
+![Responsive](https://img.shields.io/badge/Responsive-Mobile%20First-fc3f31?style=for-the-badge)
+![Dark Theme](https://img.shields.io/badge/Theme-Dark%20Mode-000000?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)
 
-![Stars](https://img.shields.io/github/stars/Syed-Muhammad-Tayyab/Drive-Nova?style=social)
-![Forks](https://img.shields.io/github/forks/Syed-Muhammad-Tayyab/Drive-Nova?style=social)
-![Watchers](https://img.shields.io/github/watchers/Syed-Muhammad-Tayyab/Drive-Nova?style=social)
-![Last Commit](https://img.shields.io/github/last-commit/Syed-Muhammad-Tayyab/Drive-Nova?style=flat-square&color=fc3f31)
-![Repo Size](https://img.shields.io/github/repo-size/Syed-Muhammad-Tayyab/Drive-Nova?style=flat-square&color=fc3f31)
-![Issues](https://img.shields.io/github/issues/Syed-Muhammad-Tayyab/Drive-Nova?style=flat-square&color=fc3f31)
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-22c55e?style=flat-square)
+![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-fc3f31?style=flat-square)
+![Maintained](https://img.shields.io/badge/Maintained-Yes-fc3f31?style=flat-square)
+![No Build Step](https://img.shields.io/badge/Build%20Step-None-111111?style=flat-square)
+![GitHub Pages](https://img.shields.io/badge/Deploy-GitHub%20Pages-181717?style=flat-square)
+![Made By](https://img.shields.io/badge/Developed%20by-Syed%20Muhammad%20Tayyab-fc3f31?style=flat-square)
 
 ### 🏁 [**Live Demo**](https://syed-muhammad-tayyab.github.io/Drive-Nova/) &nbsp;•&nbsp; 🐞 [**Report Bug**](https://github.com/Syed-Muhammad-Tayyab/Drive-Nova/issues/new?template=bug_report.md) &nbsp;•&nbsp; ✨ [**Request Feature**](https://github.com/Syed-Muhammad-Tayyab/Drive-Nova/issues/new?template=feature_request.md)
 
